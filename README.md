@@ -9,4 +9,4 @@ Step 2 - Select the product id(press enter)
 ![step 2](Ask for product - 2.png)
 
 Step 3 -Ask fo the amount(press enter)
-![step 3](Ask for product - 2.png)
+![step 3](amount - 3.png)
