@@ -16,4 +16,4 @@ Step 4 - shows results - total
 ![step 4](show stock and total - 4.png)
 
 Step 5 -Restart from the step 2(press enter)
-![step 3](amount - 3.png)
+![step 3](restart -5.png)
