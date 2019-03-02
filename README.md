@@ -10,3 +10,10 @@ Step 2 - Select the product id(press enter)
 
 Step 3 -Ask fo the amount(press enter)
 ![step 3](amount - 3.png)
+
+
+Step 4 - shows results - total
+![step 4](show stock and total - 4.png)
+
+Step 5 -Restart from the step 2(press enter)
+![step 3](amount - 3.png)
