@@ -1,4 +1,7 @@
 # bamazon
+
+ Amazon-like storefront with the MySQL, the app will take in orders from customers and deplete stock from the store's inventory.
+
 amazon clone 
 
 Step 1 - type node bamazon.js to start the program(press enter)
