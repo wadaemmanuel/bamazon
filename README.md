@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Step 5 -Restart from the step 2(press enter)
 
 
-### Prerequisites
+### Dependencies 
 
 What things you need to install the software and how to install them
 
