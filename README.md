@@ -6,59 +6,19 @@ Bamazon is an Amazon-like storefront that allows users to purchase items from th
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-1) clone repo
-2) npm install 
+Step 1 - type node bamazon.js to start the program(press enter)
+Step 2 - Select the product id(press enter) 
+Step 3 -Enter in the amount(press enter) 
+Step 4 - shows results - total 
+Step 5 -Restart from the step 2(press enter)
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 ```
-Give examples
+npm install inquirer and mysql
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
