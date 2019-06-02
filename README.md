@@ -1,10 +1,12 @@
-# Project Title
+# Bamazon
 
-One Paragraph of project description goes here
+Bamazon is an Amazon-like storefront that allows users to purchase items from the given inventory and then updates the iventory to latest amounts. 
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+1) clone repo
 
 ### Prerequisites
 
