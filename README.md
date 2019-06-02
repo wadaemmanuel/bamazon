@@ -4,7 +4,7 @@ Bamazon is an Amazon-like storefront that allows users to purchase items from th
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine.
 
 * Step 1 - type node bamazon.js to start the program(press enter)
 * Step 2 - Select the product id(press enter) 
