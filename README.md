@@ -2,6 +2,16 @@
 
 Bamazon is an Amazon-like storefront that allows users to purchase items from the given inventory and then updates the iventory to latest amounts. 
 
+### Installation
+
+What things you need to install the software and how to install them
+```
+clone the repository 
+```
+```
+type npm install to download all dependencies 
+```
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -13,13 +23,6 @@ These instructions will get you a copy of the project up and running on your loc
 * Step 5 -Restart from the step 2(press enter)
 
 
-### Dependencies 
-
-What things you need to install the software and how to install them
-
-```
-npm install inquirer and mysql
-```
 ## Built With
 
 * [mySQL](https://dev.mysql.com/doc/) - database
