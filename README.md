@@ -14,7 +14,7 @@ type npm install to download all dependencies
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get you started your local machine.
 
 * Step 1 - type node bamazon.js to start the program(press enter)
 <img width="1439" alt="Start App - 1" src="https://user-images.githubusercontent.com/38086956/60367316-88831b00-99b3-11e9-988c-08de94f30919.png">
